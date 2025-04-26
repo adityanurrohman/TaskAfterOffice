@@ -50,5 +50,3 @@ console.log(`Remaja: ${remaja} orang`);
 console.log(`Dewasa: ${dewasa} orang`);
 console.log(`Lansia: ${lansia} orang`);
 
-//Tugas 1 clear
-
