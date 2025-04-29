@@ -14,7 +14,7 @@ function kategori(usia){
     }
 }
 
-//Looping Data Usia
+//Looping Data Usia 
 const daftarusia = [5,16,30,64,8,17,45,70,12];
 
 let anak = 0, remaja = 0, dewasa = 0, lansia = 0;
@@ -43,7 +43,7 @@ for (let i = 0; i < daftarusia.length; i+=1){
 
 }
 
-//Output
+//Output program
 console.log('Hasil dari Klasifikasi Usia:');
 console.log(`Anak-anak: ${anak} orang`); 
 console.log(`Remaja: ${remaja} orang`);
