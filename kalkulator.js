@@ -26,7 +26,7 @@ function tampilkanMenu() {
   console.log("4. Pembagian");
 }
 
-// Main program
+// Main program 
 async function main() {
   const rl = readline.createInterface({
     input: process.stdin,
@@ -75,5 +75,4 @@ async function main() {
   rl.close();
 }
 
-// Jalankan program
 main();
